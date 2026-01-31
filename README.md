@@ -290,14 +290,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Groq](https://groq.com/) - High-performance LLM inference
 - [FastMCP](https://github.com/jlowin/fastmcp) - Simplified MCP server creation
 
-## 📞 Support
-
-- 📧 **Email**: your.email@example.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/MCPPractice/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/MCPPractice/discussions)
-
----
 
 ⭐ **Star this repository** if you found it helpful!
-
-**Made with ❤️ for the MCP community**
